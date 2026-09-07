@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Discord Chat</string>
+    <string name="server_title">My Server</string>
+    <string name="channel_general">general</string>
+    <string name="channel_bot_testing">bot-testing</string>
+    <string name="channel_game_room">game-room</string>
+    <string name="message_placeholder">Message #%1$s</string>
+    <string name="bot_name">Bot Assistant</string>
+    <string name="bot_welcome">Welcome to the channel! Feel free to send a message.</string>
+</resources>

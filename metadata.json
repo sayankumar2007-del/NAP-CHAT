@@ -1,0 +1,6 @@
+{
+  "name": "Discord Chat",
+  "description": "Discord-style chat application with server rail, channel sidebar, real-time message stream, and interactive bot assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
